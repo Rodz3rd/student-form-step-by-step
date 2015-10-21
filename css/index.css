@@ -1,0 +1,39 @@
+#wrapper {
+	width: 500px;
+	margin: 0 auto;
+}
+
+table {
+	width: 100%;
+	background: linear-gradient(45deg, white, rgb(113, 192, 96));
+}
+
+caption {
+	font-size: 1.5em;
+	font-weight: bold;
+	font-family: tahoma;
+}
+
+.student-type ul li {
+	list-style: none;
+}
+
+input[type=text] {
+	width: 100%;
+}
+
+input[type=submit] {
+	float: right;
+	margin-top: 5px;
+}
+
+textarea {
+	width: 100%;
+	height: 100px;
+	resize: none;
+}
+
+form {
+	font: bold 1em verdana;
+	width: 100%;
+}
